@@ -1,0 +1,18 @@
+Custo de refuel por campaign
+
+; Campaign 0; Campaign 1
+Power Plant 0; 250575456.00; 413375392.00
+Power Plant 1; 460157824.00; 0.00
+
+
+Custo poupado de fuel por cenario
+
+; Scenario 0; Scenario 1
+Power Plant 0; 864738752.00; 828293376.00
+Power Plant 1; 512871680.00; 512871680.00
+
+
+Custo de producao por cenario
+
+; Scenario 0; Scenario 1
+Power Plant 0; 17246714855424.00; 17702527696896.00

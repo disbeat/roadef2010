@@ -1,0 +1,17 @@
+2pp 0
+outage 30 12301200.0
+outage 30 21330000.43
+scenario 0
+valpower 0 38 1.09
+valpower 1 3 500.30
+scenario 1
+valpower 1 11 3.02
+2pp 1
+outage 50 23054000.9
+outage -1 0
+scenario -1
+valpower 0 130 980.30
+valpower 2 8 10.30
+1pp 0
+scenario -1
+valpower 3 30 0.30

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?fileVersion 5.0.0?>
+
+<cproject storage_type_id="org.eclipse.cdt.core.XmlProjectDescriptionStorage2">
+<storageModule moduleId="org.eclipse.cdt.core.pathentry">
+<pathentry excluding="src/" kind="src" path=""/>
+<pathentry kind="out" path=""/>
+<pathentry kind="src" path="src"/>
+</storageModule>
+</cproject>
